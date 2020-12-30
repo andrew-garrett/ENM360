@@ -5,4 +5,4 @@ ENM360 (Introduction to Data-Driven Modeling) is an undergraduate course offered
 
 All the code written in this repo uses the JAX library, in addition to more common libraries such as Numpy, Pandas, Pytorch, etc.
 
-I am new-ish to the github scene, so if anyone has questions or concerns about me posting this, please let me know!  I dont want to upset anyone, and the purpose of this is not to promote cheating but rather to showcase some of the beautiful uses and topics of machine learning.
+I am new-ish to the github scene, so if anyone has questions or concerns about me posting this, please let me know!  I dont want to upset anyone, and the purpose of this is not to promote cheating but rather to showcase some of the beautiful topics in machine learning.
